@@ -1,0 +1,140 @@
+body {
+  background: #000000;
+  font-family: Raleway;
+  margin: 0;
+  color: #ffffff;
+}
+
+body; *{
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  text-align: center;
+  font-weight: 500;
+  padding: 1rem 2rem;
+  position: static;
+  width: 100vw;
+  top: 0;
+}
+
+.oscuro {
+  background-color: #000000;
+  text-align: center;
+  color: #ffffff;
+}
+
+.desc-section {
+  background-color: #000000;
+  text-align: left;
+  color: #FFFFFF;
+  vertical-align: middle;
+  width: 90%;
+  margin: 0 auto;
+  padding: 5%;
+  font-weight: 300;
+}
+
+.imagen2
+{
+  width: 34%;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 5%;
+}
+
+.texto01{
+  width: 50%;
+  display: inline-block;
+  text-align: left;
+  margin-left: 3%;
+  vertical-align: middle;
+}
+
+.carac {
+  text-align: center;
+  font-weight: 500;
+  padding: 1% 0;
+}
+
+.caracteristicas {
+  background-color: #1E1A13;
+  text-align: center;
+  width: 100%;
+  padding: 1%;
+}
+
+.icono1 {
+  width: 33%;
+  display: inline-block;
+  font-weight: 300;
+}
+
+.icono2 {
+  width: 33%;
+  display: inline-block;
+  font-weight: 300;
+}
+
+.icono3 {
+  width: 33%;
+  display: inline-block;
+  font-weight: 300;
+}
+
+.icon {
+  display: inline-block;
+  width: 20%;
+  margin-left: 10%;
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 5%
+  font-weight: 300;
+  padding: 0.5%;
+}
+
+.fotos {
+  display: inline-block;
+  background-color: #000000;
+}
+
+#reptil1 {
+  width: 15em;
+  height: 12em;
+  padding: 0.5%;
+}
+
+#reptil2 {
+  width: 15em;
+  height: 12em;
+  padding: 0.5%;
+}
+
+#reptil3 {
+  width: 15em;
+  height: 12em;
+  padding: 0.5%;
+}
+
+.fotos {
+  display: inline-block;
+  width: 90%;
+  padding: 5%;
+}
+
+center{
+  display: block;
+  text-align: -webkit-center;
+}
+
+footer {
+  background-color: #1E1A13;
+  text-align: center;
+  color: #ffffff;
+  display: inline-block;
+  padding: 1rem 2rem;
+  position: static;
+  width: 100vw;
+  top: 0;
+}
